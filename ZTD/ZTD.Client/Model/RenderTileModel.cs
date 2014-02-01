@@ -13,7 +13,6 @@ namespace ZTD.Client.Model
         public void Render(GameModel gameModel,BoardModel boardModel, CanvasRenderingContext2D canvas)
         {
 
-            canvas.FillRect();
         }
     }
 }
